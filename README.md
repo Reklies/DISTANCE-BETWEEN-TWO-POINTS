@@ -16,6 +16,12 @@ using math.sqrt function
 ### Step 5: 
 end the program
 ### PROGRAM:
+import math
+x_1,y_1=4,2
+x_2,y_2=10,6
+d=math.sqrt((x_2-x_1)**2+(y_2-y_1)**2)
+print(f"{d:.2f}")
+
   
 
 
@@ -26,3 +32,4 @@ end the program
 
 
 ### RESULT:
+thus the distance between two points are successly exicuted
